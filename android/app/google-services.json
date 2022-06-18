@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96723012945",
+    "project_id": "mikhvision",
+    "storage_bucket": "mikhvision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96723012945:android:cd2b273b3a49a7e03c9770",
+        "android_client_info": {
+          "package_name": "com.example.mikhvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96723012945-m0jecv6a642q2kr6njhmce7vt2h0ek9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzCgeDgMRqr_-3B2tkD6lARKriYVUxaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96723012945-m0jecv6a642q2kr6njhmce7vt2h0ek9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
